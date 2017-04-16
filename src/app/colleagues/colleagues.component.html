@@ -1,0 +1,8 @@
+<colleague [colleague]="selectedColleague"></colleague>
+<ul class="heroes">
+    <li *ngFor="let colleague of colleagues"
+        (click)="onSelect(colleague)"
+        [class.selected]="selectedColleague === colleague">
+       <span class="badge">{{colleague.id}}</span> {{colleague.name}}
+    </li>
+</ul>
