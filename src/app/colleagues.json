@@ -1,22 +1,47 @@
 [
   {
     "id": 11,
-    "name": "Claire Charlot"
+    "name": "Nikola Tepper",
+    "shortName": "ntep"
   },
   {
     "id": 12,
-    "name": "Divya Raj Malemane"
+    "name": "Vitalii Ulantikov",
+    "shortName": "viu"
   },
   {
     "id": 13,
-    "name": "Steffen Lehmann"
+    "name": "Claire Charlot",
+    "shortName": "ccha"
   },
   {
     "id": 14,
-    "name": "Nikola Tepper"
+    "name": "Steffen Lehmann",
+    "shortName": "sleh"
   },
   {
     "id": 15,
-    "name": "Victor Golubei"
+    "name": "Raul Garcia Benito",
+    "shortName": "rben"
+  },
+  {
+    "id": 16,
+    "name": "Divya Raj Malemane",
+    "shortName": "divy"
+  },
+  {
+    "id": 17,
+    "name": "Morten de Blanck Kristiansen",
+    "shortName": "mokr"
+  },
+  {
+    "id": 18,
+    "name": "Johan Tobias Eriksson",
+    "shortName": "joher"
+  },
+  {
+    "id": 19,
+    "name": "Victor Golubei",
+    "shortName": "vgol"
   }
 ]
